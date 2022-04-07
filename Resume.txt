@@ -2,3 +2,4 @@ Name : Vinod Barve
 Designation : Test Analyst
 Role : Testing
 Branch : in Edit branch
+Skills : Selenium, Java
