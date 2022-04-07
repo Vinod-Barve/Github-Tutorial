@@ -1,3 +1,4 @@
 Name : Vinod Barve
 Designation : Test Analyst
 Role : Testing
+Organization : Bitwise
